@@ -29,7 +29,7 @@ BookWise is an AI-powered application that allows you to upload books in `.txt`,
 
 ## 📬 Contact
 
-For queries or collaborations, feel free to reach out at [your-email@example.com].
+For queries or collaborations, feel free to reach out at [akshay.fiem@gmail.com].
 
 ---
 
