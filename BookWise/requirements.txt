@@ -1,0 +1,10 @@
+flask
+streamlit
+chromadb
+sentence-transformers
+pytesseract
+pdfplumber
+pillow
+pandas
+python-dotenv
+google-generativeai
